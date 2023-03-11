@@ -1,5 +1,5 @@
-**Alx System Engineering and DevOps**
-
+Alx System Engineering and DevOps
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This repository contains programs written for the system engineering and DevOps track at ALX projects.  In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. The exact list of the projects contained is as follows;
 
@@ -14,10 +14,10 @@ Author :black_nib:
 
 *Joseck David sfteng*
 <ol>
-<li>`[Facebook] (https://web.facebook.com/Wisdompaysgreat/)`</li>
-<li>`[Twitter](https://twitter.com/joseckdavid)`</li>
-<li>`[Linkedin] (https://www.linkedin.com/in/joseck-onyino-10b43b170/)`</li>
-<li>`[Instagram] (https://www.instagram.com/joseckonyinodavi/)`</li>
+<li> [Facebook] (https://web.facebook.com/Wisdompaysgreat/)</li>
+<li> [Twitter](https://twitter.com/joseckdavid)</li>
+<li> [Linkedin] (https://www.linkedin.com/in/joseck-onyino-10b43b170/)</li>
+<li> [Instagram] (https://www.instagram.com/joseckonyinodavi/) </li>
 </ol>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
