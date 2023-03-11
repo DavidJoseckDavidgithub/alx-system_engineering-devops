@@ -1,4 +1,4 @@
-<span style="color:red">**Alx System Engineering and DevOps**</span>
+<span style="color:red"> Alx System Engineering and DevOps </span>
 
 
 This repository contains programs written for the system engineering and DevOps track at ALX projects.  In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. The exact list of the projects contained is as follows;
